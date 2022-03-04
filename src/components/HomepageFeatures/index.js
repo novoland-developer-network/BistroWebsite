@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        追了那么多年别人的故事，这次我们想听听你的故事
+        追了那么多年别人的事，这次我们想听听你的故事
       </>
     ),
   },
