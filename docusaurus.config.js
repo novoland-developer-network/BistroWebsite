@@ -104,11 +104,11 @@ const config = {
                         title: "汇聚成海",
                         items: [
                             {
-                                label: "九州第一社区@机巧殿",
+                                label: "九州第一社区 By 机巧殿",
                                 href: "https://9.doylee.cn/",
                             },
                             {
-                                label: "秋叶城故事会@龙渊阁",
+                                label: "秋叶城故事会 By 龙渊阁",
                                 href: "https://9zqiuye.wordpress.com/",
                             },
                         ],
