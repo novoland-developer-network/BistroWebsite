@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbistro=self.webpackChunkbistro||[]).push([[17],{2063:function(s){s.exports=JSON.parse('{"allTagsPath":"/BistroWebsite/blog/tags","slug":"/BistroWebsite/blog/tags/hello","name":"hello","count":2,"permalink":"/BistroWebsite/blog/tags/hello"}')}}]);
