@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://ch4o5.me/bistro.apk">
-            立即下载体验（Android 版）
+            抢先体验（Android 版）
           </Link>
         </div>
       </div>
