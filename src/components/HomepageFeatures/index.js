@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '九州民间原生',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        从产品设计到开发到用户，我们都是九州人
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '讲述你的故事',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        追了那么多年别人的故事，这次我们想听听你的故事
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '冲破现实的边界',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        在这里，和上千九州爱好者相遇
       </>
     ),
   },
