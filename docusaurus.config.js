@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: '小九馆',
-    tagline: '亲眼去看，亲耳去听，亲口讲述',
+    tagline: '亲眼去看, 亲耳去听, 亲口讲述',
     url: 'https://novoland-developer-network.github.io',
     baseUrl: '/BistroWebsite/',
     onBrokenLinks: 'throw',
