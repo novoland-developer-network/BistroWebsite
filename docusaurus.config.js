@@ -78,13 +78,26 @@ const config = {
                         },
                         {
                             label: '龙渊阁❤发光者',
-                            href: 'https://jq.qq.com/?_wv=1027&k=GZTy3dfU',
+                            href: 'https://jq.qq.com/?_wv=1027&k=r4QMdtWt',
                         },
                         {
                             label: '第一群☀热爱者',
                             href: 'https://jq.qq.com/?_wv=1027&k=4uT4985q',
                         },
                     ],
+                },
+                {
+                    title: '汇聚成海',
+                    items: [
+                        {
+                            label: '九州第一社区@机巧殿',
+                            href: 'https://9.doylee.cn/'
+                        },
+                        {
+                            label: '秋叶城故事会@龙渊阁',
+                            href: 'https://9zqiuye.wordpress.com/'
+                        }
+                    ]
                 },
                 {
                     title: '了解更多',
