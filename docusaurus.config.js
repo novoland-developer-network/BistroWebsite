@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: '小九馆',
     tagline: '亲眼去看，亲耳去听，亲口讲述',
-    url: 'https://bistro.novo.org.cn',
-    baseUrl: '/',
+    url: 'https://novoland-developer-network.github.io',
+    baseUrl: '/BistroWebsite/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'novoland-developer-network', // Usually your GitHub org/user name.
-    projectName: 'bistro_website', // Usually your repo name.
+    projectName: 'BistroWebsite', // Usually your repo name.
 
     presets: [
         [
