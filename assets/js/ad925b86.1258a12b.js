@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbistro=self.webpackChunkbistro||[]).push([[451],{9057:function(s){s.exports=JSON.parse('{"allTagsPath":"/BistroWebsite/blog/tags","slug":"/BistroWebsite/blog/tags/facebook","name":"facebook","count":1,"permalink":"/BistroWebsite/blog/tags/facebook"}')}}]);
